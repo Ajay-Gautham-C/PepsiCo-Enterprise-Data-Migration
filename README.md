@@ -43,3 +43,11 @@ This architecture provided a **centralized analytics platform** for global stake
 
 ## 📂 Repository Structure
 
+---
+
+## ⚠️ Disclaimer
+This repository is a **generalized version** of a real enterprise project completed at **PepsiCo**.  
+All datasets, scripts, and examples provided here are **dummy/sample data** and do not contain any confidential client information.  
+The purpose of this repository is to **showcase skills in SQL, Databricks, Azure Data Factory, Azure Data Lake, Azure Synapse, and Power BI**.
+
+
